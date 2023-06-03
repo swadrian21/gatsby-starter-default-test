@@ -11,7 +11,7 @@ const links = [
     text: "Tutorial",
     url: "https://www.twc90.com _to see nothing.",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "TWC90 , the test site hosted by others..",
   },
   {
     text: "Examples",
