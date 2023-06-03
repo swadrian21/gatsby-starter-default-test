@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()} &middot; Built with
           {` `}
-          <a href="http://www.twc90.com">Gatsby</a>
+          <a href="http://www.twc90.com">TWC90 - web && database.</a>
         </footer>
       </div>
     </>
