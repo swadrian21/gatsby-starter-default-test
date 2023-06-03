@@ -9,7 +9,7 @@ import * as styles from "../components/index.module.css"
 const links = [
   {
     text: "Tutorial",
-    url: "https://www.twc90.com/html/",
+    url: "https://www.twc90.com/html/index.html",
     description:
       "TWC90 , the test site hosted by others..",
   },
